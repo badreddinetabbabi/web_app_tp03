@@ -1,0 +1,17 @@
+div
+{
+	border : 1px dotted gray;
+	margin: 10px;
+	padding: 50px;
+	color: blue;
+}
+
+.label {
+    color: green;
+    font-weight: bold;
+}
+
+.erreur {
+    color: red;
+    font-weight: bold;
+}
